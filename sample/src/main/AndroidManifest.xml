@@ -53,7 +53,7 @@
             <!--Plugin UUID *** YOU NEED TO CHANGE IT *** -->
             <!--https://www.uuidgenerator.net/version4 -->
             <meta-data
-                android:name="uuid"
+                android:name="1ba604d2-b736-4ea2-8934-a9ddaa6d5e38"
                 android:value="@string/plugin_uuid"/>
 
             <!-- Plugin name -->
